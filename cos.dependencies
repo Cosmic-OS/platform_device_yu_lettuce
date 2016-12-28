@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "YU-N/android_device_cyanogen_msm8916-common",
+    "target_path": "device/cyanogen/msm8916-common",
+	"branch":      "cm-14.1"
+  },
+  {
+    "repository": "YU-N/android_kernel_cyanogen_msm8916",
+    "target_path": "kernel/cyanogen/msm8916",
+	"branch":      "caf-merge"
+  },
+  {
+    "repository": "YU-N/proprietary_vendor_yu",
+    "target_path": "vendor/yu",
+        "branch":  "cm-14.1"
+  }
+]
